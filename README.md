@@ -1,6 +1,3 @@
-# Banking-System-using-CPP
-Sure! Below is a **complete README** file you can copy and paste for your project:
-
 ---
 
 # 🏦 Bank Management System in C++
